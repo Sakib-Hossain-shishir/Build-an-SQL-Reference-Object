@@ -80,20 +80,6 @@ The SQL reference grows incrementally through commits, demonstrating how version
 
 ---
 
-## How to Explore
-
-Clone the repository:
-git clone <repository-url>  
-cd <repository-folder>
-
-View commit history:
-git log --oneline --graph --all
-
-Inspect changes:
-git show
-
----
-
 ## Learning Outcome
 After completing this project, you should be able to:
 - Work confidently with Git branches
