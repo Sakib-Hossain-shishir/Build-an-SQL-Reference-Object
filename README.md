@@ -1,4 +1,4 @@
-### Build an SQL Reference Object
+# Build an SQL Reference Object
 
 ## Overview
 This project is a hands-on Git learning exercise where an SQL reference object is built while practicing real development workflows. The goal is to learn Git by actually using it — creating branches, committing changes, resolving conflicts, rebasing history, and managing project files like a real software project.
